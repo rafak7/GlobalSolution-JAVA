@@ -20,11 +20,12 @@
 
 </div>
 
-- **Java 19+**
-- **Spring Boot**
-- **Lombok**
-- **HATEOAS**
-- **Docker**
+
+- **Java 19** <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40" style="border-radius: 50px;" align="center">
+- **Spring Boot** <img src="https://img.icons8.com/?size=96&id=90519&format=png" alt="Java" width="40" height="40" style="border-radius: 50px;" align="center">
+- **Lombok** <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" alt="Java" width="40" height="40" style="border-radius: 50px;" align="center">
+- **HATEOAS** <img src="https://springhow.com/wp-content/uploads/2021/02/spring-hateoas.png" alt="Java" width="40" height="40" style="border-radius: 50px;" align="center">
+- **Docker** <img src="https://camo.githubusercontent.com/fab6b1b1c4794896090da7b2b336caee330883aa9398b95fd81984fd7003ae93/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f646f776e6c6f61642f73746f726167652f76312f622f6d61636f732d69636f6e732e61707073706f742e636f6d2f6f2f69636f6e735f617070726f766564253246706e67253246313630353336343933323737385f446f636b65725f416c745f322e706e673f67656e65726174696f6e3d3136303533373936303030373430383026616c743d6d65646961" alt="Java" width="40" height="40" style="border-radius: 50px;" align="center">
 
 
 <div align="center">
