@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 🌊 Projeto Java: Blueguard
+# 🌊 Blueguard 🌊
 
-<img src="https://raw.githubusercontent.com/bruno1098/BlueGuard/main/assets/images/logo.png" alt="Blueguard" width="200"/>
+<img src="https://raw.githubusercontent.com/bruno1098/BlueGuard/main/assets/images/logo.png" alt="Blueguard" width="150"/>
 
 </div>
 
