@@ -199,8 +199,12 @@ Para compilar e executar o projeto, siga os passos abaixo:
    ```sh
    ./mvnw spring-boot:run
    ```
+   
+<div align="center">
 
-### Docker
+### Docker 🐳
+
+</div>
 
 O projeto inclui um Dockerfile para facilitar a criação de um container Docker da aplicação.
 
