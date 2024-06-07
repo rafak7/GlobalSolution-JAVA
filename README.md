@@ -14,8 +14,6 @@
 
 **Blueguard** é uma aplicação Java robusta desenvolvida com **Spring Boot**, **Lombok** e **HATEOAS**. O projeto oferece um conjunto de APIs RESTful para gerenciar áreas marinhas, comunidades, marcações, observações e qualidade da água. Ele é projetado para ser escalável, fácil de manter e altamente eficiente.
 
-
-
 <div align="center">
 
 ## 🚀 Tecnologias Utilizadas
@@ -28,9 +26,6 @@
 - **HATEOAS**
 - **Docker**
 
-
-
----
 
 <div align="center">
 
@@ -123,8 +118,6 @@
   </ul>
 </details>
 
----
-
 <div align="center">
 
 ## 🔧 Recursos Utilizados
@@ -149,9 +142,19 @@ O projeto incorpora HATEOAS para facilitar a navegação entre recursos, adicion
 - **EntityModel**: Envolve DTOs com links HATEOAS.
 - **WebMvcLinkBuilder**: Constrói links com base nos métodos dos controladores.
 
+<div align="center">
+  
+## 📚 Documentação da API
+
+</div>
+
+A documentação da API foi realizada utilizando o Swagger. Para acessar a documentação interativa e explorar os endpoints disponíveis, acesse o seguinte link:
+
+Swagger UI `http://localhost:8080/swagger-ui/index.html` 
+
+![Swagger](https://img.shields.io/badge/documentation-Swagger-brightgreen)
 
 
----
 
 <div align="center">
 
